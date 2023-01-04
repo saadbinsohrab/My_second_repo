@@ -1,9 +1,18 @@
 ul{margin: 20px;}
-div{
+div{border: 50px;
     background-color: blueviolet;
+}
+h3{
+    color: chartreuse;
 }
 h2{
     text-align: center;
     color: blue;
     font-weight: 900px;
+}
+#a{
+    text-align: right;
+    border: 3px solid blue ;
+    /* border-color: blue; */
+    /* border-bottom-right-radius: 30%; */
 }
